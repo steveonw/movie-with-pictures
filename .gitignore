@@ -1,0 +1,9 @@
+# never commit
+.hf_token
+*.env
+# generated media
+*.mp4
+*.wav
+*.png
+*.jpg
+models/
